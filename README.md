@@ -31,3 +31,5 @@ I. Exploratory Data Analysis
 II. Rank Based Recommendations
 
 III. User-User Based Collaborative Filtering
+
+V. Matrix Factorization
